@@ -1,7 +1,3 @@
-// Cairo R.
-// Laura Freitas
-// Braulio Portela
-
 // A. Acessar elementos específicos de um array.
 let array1 = ['Paulo', 'Fernanda', 'Fabio'];
 console.log(array1[1]);
